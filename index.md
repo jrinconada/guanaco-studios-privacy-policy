@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Guanaco Studios
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/jrinconada/guanaco-studios-privacy-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This Privacy Policy describes the information collected by **Guanaco Studios** through the mobile application **Madnimal**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As developers of apps for children we highly respect the privacy of children.
 
-### Markdown
+- We do not collect personal information of your child.
+- We do not collect any statistics of the usage of the app.
+- We do not know about any other information such as: name, address, email, phone-numbers or photos.
+- We do not have in-app purchases.
+- We do not have any third-party advertising within the app.
+- We do not integrate any social media in the app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The only part were you are able to go outside the app is the sharing feature.
 
-```markdown
-Syntax highlighted code block
+Kind regards, the **Guanaco Studios Development Team**.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrinconada/guanaco-studios-privacy-policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For any doubts or suggestions please contact us: guanacostudios@gmail.com
