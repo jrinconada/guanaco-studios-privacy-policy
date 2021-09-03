@@ -1,4 +1,5 @@
-# Our Policy
+# Guanaco Studios
+## Privacy Policy
 
 This Privacy Policy describes the information collected by **Guanaco Studios** through the mobile application **Madnimal**.
 
