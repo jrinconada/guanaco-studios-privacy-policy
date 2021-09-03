@@ -1,5 +1,4 @@
-# Guanaco Studios
-## Privacy Policy
+# Our Policy
 
 This Privacy Policy describes the information collected by **Guanaco Studios** through the mobile application **Madnimal**.
 
@@ -18,7 +17,7 @@ Kind regards, the **Guanaco Studios Development Team**.
 
 For any doubts or suggestions please contact us: guanacostudios@gmail.com
 
-## Política de Privacidad
+# Política de Privacidad
 
 Esta política de privacidad describe la información recolectada por **Guanaco Studios** mediante la aplicación **Madnimal**.
 
